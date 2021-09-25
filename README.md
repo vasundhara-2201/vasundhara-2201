@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vasundhara Shrivastava
 - 👀 I’m interested in Web development and UI/UX Designs.
-- 🌱 I’m currently learning Backend Programming
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 You can reach me on LinkedIn - https://www.linkedin.com/in/vasundhara-shrivastava-5462611a6/
 
